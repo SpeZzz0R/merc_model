@@ -7,6 +7,12 @@
 
 ## Используемые технологии
 - Google Colab / Jupyter Notebook
+- Pandas
+- Phik
+- Matplotlib
+- Shap
+- Scikit-learn
+- CatBoost
 
 
 ## Результаты анализа данных	
