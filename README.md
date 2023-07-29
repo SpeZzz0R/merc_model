@@ -7,6 +7,7 @@
 
 ## Используемые технологии
 - Google Colab / Jupyter Notebook
+- Python
 - Pandas
 - Phik
 - Matplotlib
